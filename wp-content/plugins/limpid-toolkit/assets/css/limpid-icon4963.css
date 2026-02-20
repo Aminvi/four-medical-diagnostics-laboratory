@@ -1,0 +1,582 @@
+@font-face {
+  font-family: "limpidicon_fonts";
+  src: url("../fonts/limpidicon_fonts9df1.woff2?139890a41b71c913097738a4de35a6ad") format("woff2"), url("../fonts/limpidicon_fonts9df1.woff?139890a41b71c913097738a4de35a6ad") format("woff"), url("../fonts/limpidicon_fonts9df1.eot?139890a41b71c913097738a4de35a6ad#iefix") format("embedded-opentype"), url("../fonts/limpidicon_fonts9df1.ttf?139890a41b71c913097738a4de35a6ad") format("truetype"), url("../fonts/limpidicon_fonts9df1.html?139890a41b71c913097738a4de35a6ad#limpidicon_fonts") format("svg");
+}
+i[class^=limpidicon-]:before, i[class*=" limpidicon-"]:before {
+  font-family: limpidicon_fonts !important;
+  font-style: normal;
+  font-weight: normal !important;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.limpidicon-drop-down-arrow:before {
+  content: "\f101";
+}
+
+.limpidicon-placeholder:before {
+  content: "\f102";
+}
+
+.limpidicon-loupe:before {
+  content: "\f103";
+}
+
+.limpidicon-clock:before {
+  content: "\f104";
+}
+
+.limpidicon-email:before {
+  content: "\f105";
+}
+
+.limpidicon-check:before {
+  content: "\f106";
+}
+
+.limpidicon-back:before {
+  content: "\f107";
+}
+
+.limpidicon-next:before {
+  content: "\f108";
+}
+
+.limpidicon-up-right-arrow:before {
+  content: "\f109";
+}
+
+.limpidicon-chat-box:before {
+  content: "\f10a";
+}
+
+.limpidicon-user:before {
+  content: "\f10b";
+}
+
+.limpidicon-medical:before {
+  content: "\f10c";
+}
+
+.limpidicon-forbidden:before {
+  content: "\f10d";
+}
+
+.limpidicon-virus:before {
+  content: "\f10e";
+}
+
+.limpidicon-danger:before {
+  content: "\f10f";
+}
+
+.limpidicon-medical-1:before {
+  content: "\f110";
+}
+
+.limpidicon-machine:before {
+  content: "\f111";
+}
+
+.limpidicon-healthcare:before {
+  content: "\f112";
+}
+
+.limpidicon-straight:before {
+  content: "\f113";
+}
+
+.limpidicon-medical-2:before {
+  content: "\f114";
+}
+
+.limpidicon-medical-3:before {
+  content: "\f115";
+}
+
+.limpidicon-eye:before {
+  content: "\f116";
+}
+
+.limpidicon-medical-4:before {
+  content: "\f117";
+}
+
+.limpidicon-heart:before {
+  content: "\f118";
+}
+
+.limpidicon-science:before {
+  content: "\f119";
+}
+
+.limpidicon-medical-5:before {
+  content: "\f11a";
+}
+
+.limpidicon-medical-6:before {
+  content: "\f11b";
+}
+
+.limpidicon-test-tube:before {
+  content: "\f11c";
+}
+
+.limpidicon-medical-7:before {
+  content: "\f11d";
+}
+
+.limpidicon-symbol:before {
+  content: "\f11e";
+}
+
+.limpidicon-book:before {
+  content: "\f11f";
+}
+
+.limpidicon-monitor:before {
+  content: "\f120";
+}
+
+.limpidicon-location:before {
+  content: "\f121";
+}
+
+.limpidicon-healthcare-1:before {
+  content: "\f122";
+}
+
+.limpidicon-medical-8:before {
+  content: "\f123";
+}
+
+.limpidicon-medical-9:before {
+  content: "\f124";
+}
+
+.limpidicon-organ:before {
+  content: "\f125";
+}
+
+.limpidicon-medical-10:before {
+  content: "\f126";
+}
+
+.limpidicon-prescription:before {
+  content: "\f127";
+}
+
+.limpidicon-medical-11:before {
+  content: "\f128";
+}
+
+.limpidicon-medical-12:before {
+  content: "\f129";
+}
+
+.limpidicon-medical-13:before {
+  content: "\f12a";
+}
+
+.limpidicon-ribbon:before {
+  content: "\f12b";
+}
+
+.limpidicon-biology:before {
+  content: "\f12c";
+}
+
+.limpidicon-healthcare-2:before {
+  content: "\f12d";
+}
+
+.limpidicon-healthcare-3:before {
+  content: "\f12e";
+}
+
+.limpidicon-healthcare-4:before {
+  content: "\f12f";
+}
+
+.limpidicon-device:before {
+  content: "\f130";
+}
+
+.limpidicon-running:before {
+  content: "\f131";
+}
+
+.limpidicon-healthcare-5:before {
+  content: "\f132";
+}
+
+.limpidicon-chart:before {
+  content: "\f133";
+}
+
+.limpidicon-support:before {
+  content: "\f134";
+}
+
+.limpidicon-bandage:before {
+  content: "\f135";
+}
+
+.limpidicon-machine-1:before {
+  content: "\f136";
+}
+
+.limpidicon-knife:before {
+  content: "\f137";
+}
+
+.limpidicon-healthcare-6:before {
+  content: "\f138";
+}
+
+.limpidicon-testing:before {
+  content: "\f139";
+}
+
+.limpidicon-medical-14:before {
+  content: "\f13a";
+}
+
+.limpidicon-medical-15:before {
+  content: "\f13b";
+}
+
+.limpidicon-sound:before {
+  content: "\f13c";
+}
+
+.limpidicon-insurance:before {
+  content: "\f13d";
+}
+
+.limpidicon-reproductive:before {
+  content: "\f13e";
+}
+
+.limpidicon-medical-16:before {
+  content: "\f13f";
+}
+
+.limpidicon-medical-front-desk:before {
+  content: "\f140";
+}
+
+.limpidicon-medical-17:before {
+  content: "\f141";
+}
+
+.limpidicon-healthcare-7:before {
+  content: "\f142";
+}
+
+.limpidicon-medical-18:before {
+  content: "\f143";
+}
+
+.limpidicon-bottle:before {
+  content: "\f144";
+}
+
+.limpidicon-chemistry:before {
+  content: "\f145";
+}
+
+.limpidicon-pills:before {
+  content: "\f146";
+}
+
+.limpidicon-hair:before {
+  content: "\f147";
+}
+
+.limpidicon-body:before {
+  content: "\f148";
+}
+
+.limpidicon-tube:before {
+  content: "\f149";
+}
+
+.limpidicon-healthcare-8:before {
+  content: "\f14a";
+}
+
+.limpidicon-healthcare-9:before {
+  content: "\f14b";
+}
+
+.limpidicon-hand:before {
+  content: "\f14c";
+}
+
+.limpidicon-phone:before {
+  content: "\f14d";
+}
+
+.limpidicon-protection:before {
+  content: "\f14e";
+}
+
+.limpidicon-bandage-1:before {
+  content: "\f14f";
+}
+
+.limpidicon-medical-19:before {
+  content: "\f150";
+}
+
+.limpidicon-profile:before {
+  content: "\f151";
+}
+
+.limpidicon-medical-20:before {
+  content: "\f152";
+}
+
+.limpidicon-human:before {
+  content: "\f153";
+}
+
+.limpidicon-danger-1:before {
+  content: "\f154";
+}
+
+.limpidicon-healthcare-10:before {
+  content: "\f155";
+}
+
+.limpidicon-app:before {
+  content: "\f156";
+}
+
+.limpidicon-healthcare-11:before {
+  content: "\f157";
+}
+
+.limpidicon-healthcare-12:before {
+  content: "\f158";
+}
+
+.limpidicon-medical-21:before {
+  content: "\f159";
+}
+
+.limpidicon-folder:before {
+  content: "\f15a";
+}
+
+.limpidicon-internet:before {
+  content: "\f15b";
+}
+
+.limpidicon-medical-22:before {
+  content: "\f15c";
+}
+
+.limpidicon-medical-23:before {
+  content: "\f15d";
+}
+
+.limpidicon-brush:before {
+  content: "\f15e";
+}
+
+.limpidicon-healthcare-13:before {
+  content: "\f15f";
+}
+
+.limpidicon-medical-24:before {
+  content: "\f160";
+}
+
+.limpidicon-eye-1:before {
+  content: "\f161";
+}
+
+.limpidicon-healthcare-14:before {
+  content: "\f162";
+}
+
+.limpidicon-healthcare-15:before {
+  content: "\f163";
+}
+
+.limpidicon-medical-25:before {
+  content: "\f164";
+}
+
+.limpidicon-ambulance:before {
+  content: "\f165";
+}
+
+.limpidicon-science-1:before {
+  content: "\f166";
+}
+
+.limpidicon-healthcare-16:before {
+  content: "\f167";
+}
+
+.limpidicon-healthcare-17:before {
+  content: "\f168";
+}
+
+.limpidicon-card:before {
+  content: "\f169";
+}
+
+.limpidicon-transfer:before {
+  content: "\f16a";
+}
+
+.limpidicon-healthcare-18:before {
+  content: "\f16b";
+}
+
+.limpidicon-healthcare-19:before {
+  content: "\f16c";
+}
+
+.limpidicon-medical-26:before {
+  content: "\f16d";
+}
+
+.limpidicon-walk:before {
+  content: "\f16e";
+}
+
+.limpidicon-medical-27:before {
+  content: "\f16f";
+}
+
+.limpidicon-phone-1:before {
+  content: "\f170";
+}
+
+.limpidicon-ambulance-1:before {
+  content: "\f171";
+}
+
+.limpidicon-crutch:before {
+  content: "\f172";
+}
+
+.limpidicon-defibrillator:before {
+  content: "\f173";
+}
+
+.limpidicon-doctor:before {
+  content: "\f174";
+}
+
+.limpidicon-glucose-meter:before {
+  content: "\f175";
+}
+
+.limpidicon-heart-monitoring:before {
+  content: "\f176";
+}
+
+.limpidicon-hospital:before {
+  content: "\f177";
+}
+
+.limpidicon-intravenous-saline-drip:before {
+  content: "\f178";
+}
+
+.limpidicon-magnetic-resonance:before {
+  content: "\f179";
+}
+
+.limpidicon-medical-bed:before {
+  content: "\f17a";
+}
+
+.limpidicon-medical-check-up:before {
+  content: "\f17b";
+}
+
+.limpidicon-medical-gloves:before {
+  content: "\f17c";
+}
+
+.limpidicon-medical-symbol:before {
+  content: "\f17d";
+}
+
+.limpidicon-medical-uniform:before {
+  content: "\f17e";
+}
+
+.limpidicon-medicine:before {
+  content: "\f17f";
+}
+
+.limpidicon-microscope:before {
+  content: "\f180";
+}
+
+.limpidicon-operating-room:before {
+  content: "\f181";
+}
+
+.limpidicon-otoscope:before {
+  content: "\f182";
+}
+
+.limpidicon-oxygen-mask:before {
+  content: "\f183";
+}
+
+.limpidicon-oxygen-tank:before {
+  content: "\f184";
+}
+
+.limpidicon-scalpel:before {
+  content: "\f185";
+}
+
+.limpidicon-stethoscope:before {
+  content: "\f186";
+}
+
+.limpidicon-surgical-mask:before {
+  content: "\f187";
+}
+
+.limpidicon-syringe:before {
+  content: "\f188";
+}
+
+.limpidicon-thermometer:before {
+  content: "\f189";
+}
+
+.limpidicon-transfusion:before {
+  content: "\f18a";
+}
+
+.limpidicon-ultrasonography:before {
+  content: "\f18b";
+}
+
+.limpidicon-walker:before {
+  content: "\f18c";
+}
+
+.limpidicon-wheelchair:before {
+  content: "\f18d";
+}
+
+.limpidicon-x-ray:before {
+  content: "\f18e";
+}/*# sourceMappingURL=limpidicon_fonts.css.map */
